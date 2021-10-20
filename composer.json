@@ -1,0 +1,14 @@
+{
+  "name": "fafnear/ipay",
+  "version": "1.0.0",
+  "autoload": {
+    "psr-4": {
+      "Fafnear\\IPay\\": "./src"
+    }
+  },
+  "require": {
+    "guzzlehttp/guzzle": "*",
+    "ext-simplexml": "*",
+    "ext-json": "*"
+  }
+}
